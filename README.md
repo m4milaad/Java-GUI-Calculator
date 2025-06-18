@@ -31,10 +31,11 @@ A simple yet visually styled Calculator application built using Java AWT (Abstra
 
 ## 🚀 How to Run
 
-1. Clone Repo:
-  ```bash
-  git clone https://github.com/m4milaad/Java-GUI-Calculator.git
-  ```
+
+1. Clone Project:
+   ```bash
+   git clone https://github.com/m4milaad/Java-GUI-Calculator.git
+   ```
 
 2. Change Directory:
    ```bash
