@@ -47,7 +47,8 @@ A simple yet visually styled Calculator application built using Java AWT (Abstra
 
 ## ✨ Screenshots
 
-*(Add your own screenshots here for better presentation)*
+![image](https://github.com/user-attachments/assets/e9e65350-879f-42ba-91fa-7549bcaa6f60)
+
 
 ## 📄 License
 
