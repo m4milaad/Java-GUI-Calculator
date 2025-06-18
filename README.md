@@ -31,15 +31,15 @@ A simple yet visually styled Calculator application built using Java AWT (Abstra
 
 ## 🚀 How to Run
 
-1. Clone Repo
+1. Clone Repo:
   ```bash
   git clone https://github.com/m4milaad/Java-GUI-Calculator.git
   ```
 
-2. Change Directory
-  ```bash
-  cd Java-GUI-Calculator
-  ```
+2. Change Directory:
+   ```bash
+   cd Java-GUI-Calculator
+   ```
 
 3. Compile the file:
    ```bash
