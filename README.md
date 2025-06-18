@@ -31,12 +31,22 @@ A simple yet visually styled Calculator application built using Java AWT (Abstra
 
 ## 🚀 How to Run
 
-1. Compile the file:
+1. Clone Repo
+```bash
+git clone https://github.com/m4milaad/Java-GUI-Calculator.git
+```
+
+2. Change Directory
+```bash
+cd Java-GUI-Calculator
+```
+
+3. Compile the file:
    ```bash
    javac Calculator.java
    ```
 
-2. Run the program:
+4. Run the program:
    ```bash
    java Calculator
    ```
@@ -48,6 +58,8 @@ A simple yet visually styled Calculator application built using Java AWT (Abstra
 ## ✨ Screenshots
 
 ![image](https://github.com/user-attachments/assets/e9e65350-879f-42ba-91fa-7549bcaa6f60)
+![image](https://github.com/user-attachments/assets/bbbc3b4f-b6c3-4d40-86ca-37e7b80510e6)
+
 
 
 ## 📄 License
